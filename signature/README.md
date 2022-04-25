@@ -6,7 +6,7 @@
   - `data-name`: Your name (default is John Doe)
   - `data-job`: Your job role (default is Job Role)
   - `data-mail-link`'s href: "mailto:[your-email-address]" (default is "mailto:mail@confio.gmbh")
-  - `data-mail`: Your email address (default is mail@confio.tech)
+  - `data-mail`: Your email address (default is mail@confio.gmbh)
   - `data-linkedin`'s href: Your LinkedIn profile address (default is "https://www.linkedin.com/company/confio-gmbh")
   - `data-twitter`'s href: Your Twitter profile address (default is "https://twitter.com/confio_tech")
   - `data-medium`'s href: Your Medium profile address (default is "https://medium.com/confio")
